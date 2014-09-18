@@ -1,1 +1,0 @@
-make a blog using the flask in python
