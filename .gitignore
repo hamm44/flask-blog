@@ -1,7 +1,12 @@
 
 #python specific
 *.pyc
- 
+.Python
+env
+bin
+lib
+include 
+
 ## generic files to ignore
 *~
 *.lock
